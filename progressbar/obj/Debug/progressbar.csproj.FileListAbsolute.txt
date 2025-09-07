@@ -1,0 +1,11 @@
+D:\vs code\progressbar\progressbar\bin\Debug\progressbar.exe.config
+D:\vs code\progressbar\progressbar\bin\Debug\progressbar.exe
+D:\vs code\progressbar\progressbar\bin\Debug\progressbar.pdb
+D:\vs code\progressbar\progressbar\obj\Debug\progressbar.csproj.AssemblyReference.cache
+D:\vs code\progressbar\progressbar\obj\Debug\progressbar.Form1.resources
+D:\vs code\progressbar\progressbar\obj\Debug\progressbar.Properties.Resources.resources
+D:\vs code\progressbar\progressbar\obj\Debug\progressbar.csproj.GenerateResource.cache
+D:\vs code\progressbar\progressbar\obj\Debug\progressbar.csproj.CoreCompileInputs.cache
+D:\vs code\progressbar\progressbar\obj\Debug\progressbar.exe
+D:\vs code\progressbar\progressbar\obj\Debug\progressbar.pdb
+D:\vs code\progressbar\progressbar\obj\Debug\progressbar.exe.config
